@@ -1,0 +1,15 @@
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\bin\Debug\WpfApp_dz4.exe.config
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\bin\Debug\WpfApp_dz4.exe
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\bin\Debug\WpfApp_dz4.pdb
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.csprojResolveAssemblyReference.cache
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\MainWindow.g.cs
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\App.g.cs
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4_MarkupCompile.cache
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4_MarkupCompile.lref
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\MainWindow.baml
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.g.resources
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.Properties.Resources.resources
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.csproj.GenerateResource.cache
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.csproj.CoreCompileInputs.cache
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.exe
+c:\users\кас\documents\visual studio 2017\Projects\WpfApp_dz4\WpfApp_dz4\obj\Debug\WpfApp_dz4.pdb
